@@ -8,3 +8,8 @@ Each page/helper class should extends BaseHelper.
 Download appropriate version for your chrome :
 Chromedriver (https://chromedriver.chromium.org/downloads) 
 It should be downloaded and extracted to root (next to pom.xml).
+
+Tests are located at : 
+TestingSkills/src/test/java/tests
+Pages are located at:
+TestingSkills/src/test/java/pages
